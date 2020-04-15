@@ -1,4 +1,4 @@
-module github.com/kubeflow/common
+module github.com/jeffwan/common
 
 go 1.13
 
